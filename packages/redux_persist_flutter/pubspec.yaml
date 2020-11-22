@@ -9,10 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: "flutter"
-  path_provider: "^1.6.0"
+  path_provider: "^1.6.24"
   shared_preferences: "^0.5.0"
-  redux_persist: "^0.8.0"
-
+  redux_persist: "^0.8.4"
 # Used for development
 #dependency_overrides:
 #  redux_persist:
